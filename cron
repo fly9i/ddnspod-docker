@@ -1,0 +1,2 @@
+# min  hour   day    month  weekday    command
+*/1 * * * * sh /data/ddns/ddnspod.sh >> /data/ddns/ddns.log
